@@ -25,7 +25,8 @@ quotes = [
     "Hoping that the love you give, is what you also receive."
     "Be proud of yourself for making this far.",
     "Instead of worrying of what could go wrong, you should see the uncertainty as a sign that there's room for it to all work out."
-    "Sabi nila, pag-inlove ka, tumitigil ang mundo mo. "
+    "Sabi nila, pag-inlove ka, tumitigil ang mundo mo.",
+    "Always choose kindness",
   
 ]
 
