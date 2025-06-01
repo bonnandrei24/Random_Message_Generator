@@ -38,4 +38,17 @@ st.write("Click to get a message")
 if st.button("New Message"):
     st.success(get_random_quote())
 
-
+st.markdown(
+    f"""
+    <div style='
+        font-size: 30px;
+        color: #3e9654;
+        font-family: Georgia, serif;
+        text-align: center;
+        padding: 40px;
+    '>
+        "{quotes}"
+    </div>
+    """,
+    unsafe_allow_html=True
+)
