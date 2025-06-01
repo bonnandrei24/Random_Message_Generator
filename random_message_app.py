@@ -22,6 +22,9 @@ quotes = [
     "Take the risk. If it scares you, pursue it more. Big dreams are scary but it will be worth it.",
     "You're doing your best with what you know. You're more than allowed to give yourself the appreciation you deserve, even if no one else does.",\
     "You're doing better than you think, keep going.",
+    "Hoping that the love you give, is what you also receive."
+    "Be proud of yourself for making this far.",
+    "Instead of worrying of what could go wrong, you should see the uncertainty as a sign that there's room for it to all work out."
   
 ]
 
@@ -29,7 +32,7 @@ def get_random_quote():
     return random.choice(quotes)
 
 # Streamlit app layout
-st.set_page_config(page_title="Random Mesesage", page_icon="💬")
+st.set_page_config(page_title="Random Message", page_icon="💬")
 
 st.title("💬 Message for yourself")
 
