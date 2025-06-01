@@ -11,7 +11,7 @@ quotes = [
     "Embrace the beauty of uncertainty. It’s a place of infinite possibility.",
     "Don't forget to be kind to yourself. You deserve the same love and care that you give to others.",
     "You will overcome all the barriers you face. You will succeed.",
-    "Life finds a way to get you where you're meant to be",
+    "Life finds a way to get you where you're meant to be.",
     "You are what you believe yourself to be. ",
     "It is okay to be different, unique, and to be yourself.",
     "The darkness in your mind doesn't erase the light that you carry in your heart.",
@@ -24,7 +24,7 @@ quotes = [
     "You're doing better than you think, keep going.",
     "Hoping that the love you give, is what you also receive."
     "Be proud of yourself for making this far.",
-    "Instead of worrying of what could go wrong, you should see the uncertainty as a sign that there's room for it to all work out."
+    "Instead of worrying of what could go wrong, you should see the uncertainty as a sign that there's room for it to all work out.",
     "Sabi nila, pag-inlove ka, tumitigil ang mundo mo.",
     "Always choose kindness.",
     "If life gets hard again, which it probably will at some point, I just want you to remember It’s okay to cry. It’s okay to slow down. It’s okay to admit that you’re tired.",
