@@ -33,8 +33,9 @@ quotes = [
     "Whatever struggles have defeated you, dreaming isn’t over. Whatever fault you may have done, it doesn't define you.",
     "Now that you are doubting yourself and afraid of where you might end up—let me tell you, it's a matter of how you continue.",
     "Pick yourself up and prove yourself wrong for doubting. You are your worst enemy—but you are also your greatest ally.",
-    "Papasa ka sa battery exams."
-  
+    "Papasa ka sa battery exams.",
+    "You shall either find a way or make one.",
+    
 ]
 
 def get_random_quote():
